@@ -1,0 +1,1 @@
+For the moment I am Developing tests with Java Swing, but the code base will later change to an android setup.
